@@ -1,0 +1,38 @@
+*{
+margin: 0;padding: 0;
+font-family: sans-serif;
+box-sizing: border-box;
+}
+body {
+	width: 600px;
+	margin: 20px auto;
+}
+
+p,h1{
+	margin-bottom: 16px;
+}
+head{border-bottom: 2px solid #aaa;}
+nav{background: rgb(153,153,255);
+padding: 0 10px;display: inline-block;
+list-style: none;margin: 0;}
+ul{list-style: none;margin: 0;}
+
+ul li{margin: 0;display: inline;}
+
+header ul li a{ padding: 0 10px;display: inline-block; }
+label{
+display: block;
+}
+input,textarea{
+width: 100%;
+padding: 10px;
+font-size: 16px;
+}
+button{
+	padding: 10px 20px;
+}
+
+header,h1,img{
+border-radius: 50%;}
+header h1{
+color:white; }

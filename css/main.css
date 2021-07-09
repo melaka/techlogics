@@ -1,0 +1,183 @@
+/*--------------------------------------------- TAG-------------------------------*/
+h1{
+	margin: 0;
+}
+h3{
+	margin: 0;
+}
+
+/*--------------------------------------------- Header-------------------------------*/
+.header-image{
+	width: 5%;
+	border-radius: 100%;
+	margin-left: 25px;
+	margin-right: 10px ;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+header-image:hover{
+}
+.headertext{
+	padding-top: 25px;
+	font-family: 'Righteous', cursive;
+}
+.Header-section{
+	background-image: linear-gradient(180deg, rgb(51, 66, 87), rgb(84, 140, 168));
+	color: white;
+}
+.nav-item{
+	color: white;
+}
+
+/*--------------------------------------------- Home-------------------------------*/
+
+.homeheader{
+	text-align: center;
+	margin-top: 0;
+	color: rgb(24, 94, 94);
+	font-size: 2.7rem;
+	line-height: 60px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Righteous', cursive;
+	
+
+}
+.homesubheader{
+	text-align: center;
+	margin-top: 25px;
+	color: rgb(228, 234, 236);
+	font-size: 1.7rem;
+	line-height: 60px;
+	font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Righteous', cursive;
+	
+}
+.homesection{
+	background-image: linear-gradient(180deg, rgb(208, 232, 242), rgb(84, 140, 168));
+	margin-top: 0;
+}
+/*--------------------------------------------- Service-------------------------------*/
+
+.servicesection{
+	background-image: linear-gradient(180deg, rgb(51, 66, 87), rgb(84, 140, 168));
+	text-align: center;
+	margin-top: 0;
+}
+.sericeheader{
+	padding-top: 20px;
+}
+.row{
+	text-align: center;
+
+}
+.card {
+	
+	margin: 0 auto; /* Added */
+	float: none; /* Added */
+	margin-bottom: 60px; /* Added */
+	margin-top: 80px;
+	
+}
+.sericeheader{
+	color: white;
+}
+
+/*--------------------------------------------- About-------------------------------*/
+.aboutsection{
+	
+	background-image: linear-gradient(180deg, rgb(51, 66, 87), rgb(84, 140, 168));
+		text-align: center;
+		margin-top: 0;
+}
+.aboutheader{
+	text-align: center;
+	font-size: 2.5rem;
+	color: rgb(109, 108, 204);
+	margin-top: 0;
+	margin-bottom: 70px;
+	padding-top: 50px;
+}
+
+.aboutcompany{
+	text-align: center;
+	font-size: 2rem;
+	color: rgb(241, 236, 239);
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 80px;
+	margin-bottom: 0px;
+	font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Righteous', cursive;
+}
+/*--------------------------------------------- Contact-------------------------------*/
+
+.contactsection{
+	background-image: linear-gradient(180deg, rgb(51, 66, 87), rgb(84, 140, 168));
+
+}
+
+.contact{
+	padding-top: 4%;
+/*	height: 400px;*/
+padding-bottom: 100px;
+	
+}
+.col-md-3{
+	background: rgb(71, 89, 126);
+	padding: 4%;
+	border-top-left-radius: 0.5rem;
+	border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+	margin-top:10%;
+}
+.contact-info img{
+	margin-bottom: 15%;
+}
+.contact-info h2{
+	margin-bottom: 10%;
+}
+.col-md-9{
+	background: #fff;
+	padding: 3%;
+	border-top-right-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+	font-weight:600;
+}
+.contact-form button{
+	background: #25274d;
+	color: #fff;
+	font-weight: 600;
+	width: 25%;
+}
+.contact-form button:focus{
+	box-shadow:none;
+}
+.containercotect{
+	color: white;
+	padding-top: 20px;
+}
+.contact-info h4,h2{
+	color: white;
+}
+/*--------------------------------------------- Contact-------------------------------*/
+
+.footerclass{
+	background-image: linear-gradient(180deg, rgb(51, 66, 87), rgb(84, 140, 168));
+	text-align: center;
+	color: white;
+	margin-bottom: 0;
+}
+.footerclass p{
+	margin-bottom: 0px;
+}
